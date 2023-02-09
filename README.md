@@ -7,7 +7,7 @@ Open Source Exoskeleton
 ### DESCRIPTION:
 <P align="justify"> .
 
-![CAD-File](https://github.com/RehabExo/OpenExoStim/blob/main/CAD.png)
+![CAD-File](https://github.com/RehabExo/OpenExoStim/blob/main/CAD.JPG)
 
 ### CONTACT:
 If you are interested to contribute to the project, please contact: <br/>  
