@@ -2,7 +2,7 @@
 Open Source Exoskeleton
 
 ### OBJECTIVES:
-<P align="justify"> The objective of this project is to develop a upper limb exoskeleton to assist indivisuals with upper limb paralysis to do daily activities of living.
+<P align="justify"> The objective of this project is to develop a upper limb exoskeleton to assist indivisuals with upper extremity paralysis to do daily activities of living.
 
 ### DESCRIPTION:
 <P align="justify"> .
@@ -10,7 +10,7 @@ Open Source Exoskeleton
 ![CAD-File](https://github.com/RehabExo/OpenExoSkeleton/blob/main/CAD.JPG)
 
 ### LICENSE:
-The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. <br/><br/>
+The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please read the License Agreement for details. <br/><br/>
 <img src="https://github.com/RehabExo/OpenExoSkeleton/blob/main/by-nc-sa.png" width="135" height="47"><br/>
 
 ### CONTACT:
