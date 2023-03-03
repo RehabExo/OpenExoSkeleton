@@ -1,5 +1,5 @@
 # OpenExoSkeleton
-Open Source Exoskeleton
+Upper-extremity Exoskeleton
 
 ### OBJECTIVES:
 <P align="justify"> The objective of this project is to develop a upper limb exoskeleton to assist indivisuals with upper extremity paralysis to do daily activities of living.
